@@ -14,9 +14,9 @@ Provide and/or identify a suite of software tools to aid in each step of digitiz
 |step 01|           | Raw images | RAW pdf    | item metadata |
 |step 02|           | Resolution | Stitching  |collection metadata|
 |step 03|           | Enhanced   | Zip, OCR   |managed description|
-|tools: | spreads   | scantailor | pdfbeads   |   _DScribe_   |
-|       |    ...    | GIMP       | tesseract  |_lib-name-parser_|
-|       |    ...    |   ...      |  djvu      |  _subjest_    |
+|tools: | spreads   | ScanTailor |_smoothscan_|   _DScribe_   |
+|       | piscan    | GIMP       | pdfbeads   |_lib-name-parser_|
+|       |           |   ...      | tesseract  |  _subjest_    |
 
 **refernces** 
 - @[ncraun](https://github.com/ncraun)'s [Linux Guide to Bookscanning](https://natecraun.net/articles/linux-guide-to-book-scanning.html)
