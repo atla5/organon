@@ -1,5 +1,5 @@
 # roadmap
-description of lib-re purpose, goals, and ongoing projects.
+Guide, wiki, scripts, and resources for use in the digization and description of printed materials.
 
 ## Purpose ##
 
@@ -13,7 +13,7 @@ Provide and/or identify a suite of software tools to aid in each step of digitiz
 | name  | **Render**| **Prepare**|**Compile** | **Describe**  |
 |step 01|           | Raw images | RAW pdf    | item metadata |
 |step 02|           | Resolution | Stitching  |collection metadata|
-|step 03|           | Enhanced   | Zip, OCR   |managed description|
+|step 03|           | Enhanced   |_Zip_, OCR   |managed description|
 |tools: | spreads   | ScanTailor |_smoothscan_|   _DScribe_   |
 |       | piscan    | GIMP       | pdfbeads   |_lib-name-parser_|
 |       |           |   ...      | tesseract  |  _subjest_    |
