@@ -30,7 +30,7 @@ Provide and/or identify a suite of software tools to aid in each step of digitiz
 |  IV   | Acquire     | Preserve    |  Accession  |
 |   V   | Interpret   | Rate/Review |  Discuss    |  
 
-**refernces** 
+**references** 
 - @[ncraun](https://github.com/ncraun)'s [Linux Guide to Bookscanning](https://natecraun.net/articles/linux-guide-to-book-scanning.html)
 - ...
 
