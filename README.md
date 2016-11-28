@@ -37,7 +37,7 @@ Provide and/or identify a suite of software tools to aid in each step of digitiz
 #### Description ####
 
 |  ID  | Marc format type |    Tools    |
-|:----:|:----------------:|:------------|
+|:----:|:-----------------|:------------|
 |  01  | Authority Control| lib-name-parser, _auth-conn_ |
 |  02  | Bibliographic    | DScribe, crosswalk |
 |  03  | Classification   | subjest |
